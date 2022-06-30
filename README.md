@@ -12,7 +12,4 @@
 
 공공데이터를 양산시 말고 전체로 보내주는 api가 있으면 전체 요양병원의 맵을 만들 수 있다.
 
-                                                        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
-                                                        
-                                                        
-                                                        
+                                                    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
